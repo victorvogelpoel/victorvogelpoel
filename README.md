@@ -21,6 +21,11 @@ I am a solution architect and software developer, working from home in the middl
 <br/>
 <br/>
 
+![](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=Windows")
+![](https://img.shields.io/badge/Tool-Visual%20Studio-blue?style=for-the-badge&icon=visualstudio)
+
+
+
 <img alt="OS" src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=Windows"/> <img alt="Visual Studio" src="https://img.shields.io/badge/Tool-Visual%20Studio-blue?style=for-the-badge&icon=visualstudio"/> <img alt="Visual Studio" src="https://img.shields.io/badge/Framework-.NET%20(Core)-blue?style=for-the-badge&icon=visualstudio"/> <img alt="Visual Studio" src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&icon=visualstudio"/> <img alt="PowerShell" src="https://img.shields.io/badge/Tool-PowerShell-blue?style=for-the-badge&logo=PowerShell&logocolor=white"/> <img alt="Office 365" src="https://img.shields.io/badge/Tool-Github-blue?style=for-the-badge"/> <img alt="Office 365" src="https://img.shields.io/badge/Tool-Office%20365-blue?style=for-the-badge"/> <img alt="Azure" src="https://img.shields.io/badge/cloud-Azure-blue?style=for-the-badge"/> <img alt="M-Files" src="https://img.shields.io/badge/product-M--Files-blue?style=for-the-badge"/>
 <br/>
 <br/>
