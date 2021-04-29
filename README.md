@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor Vogelpoel
 
-I am a solution architect and software developer, working from home in the middle of The Netherlands.
+I am a solution architect, software developer and avid PowerShell scripter, working from home in the middle of The Netherlands.
 
 
 
