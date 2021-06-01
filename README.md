@@ -8,6 +8,7 @@ I am a solution architect, software developer and avid PowerShell scripter, work
 
 - I'm currently working as a technical consultant at [The One](https://theone.nl) and [GeONE](https://geone.nl), where I build integration solutions for clients with .NET, PowerShell and M-Files Intelligent Document Management.
 - I use daily: `PowerShell`, `C#`, `.NET (Core)`, Visual Studio, OneNote, Araxis Merge.
+- [LinkedIn](https://www.linkedin.com/in/victorvogelpoel/)
 
 
 ### NOW
