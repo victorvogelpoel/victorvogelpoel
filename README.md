@@ -16,6 +16,7 @@ I am a solution architect, software developer and avid PowerShell scripter, work
 - Administering and maintaining a letter generator for a semi-public company.
 - Learning about integration solutions with M-Files (eg REST API, vault application).
 - Learning more about application solution architecture, like Clean Architecture.
+- Working on some very nice logging and development helpers for M-Files related topics. The first: [Serilog.Sinks.MFilesSysUtilsEventLog](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesSysUtilsEventLog).
 - Researching topics to improving productivity, project quality/process and technical skills.
 
 <br/>
