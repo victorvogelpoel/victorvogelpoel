@@ -1,4 +1,4 @@
-### Hi there, I'm Victor Vogelpoel
+## Hi there, I'm Victor Vogelpoel
 
 I am a solution architect, software developer and avid PowerShell scripter, working from home in the middle of The Netherlands.
 
@@ -10,14 +10,17 @@ I am a solution architect, software developer and avid PowerShell scripter, work
 - I use daily: `PowerShell`, `C#`, `.NET (Core)`, Visual Studio, OneNote, Araxis Merge.
 - [LinkedIn](https://www.linkedin.com/in/victorvogelpoel/)
 
-
 ### NOW
 
 - Administering and maintaining a letter generator for a semi-public company.
 - Learning about integration solutions with M-Files (eg REST API, vault application).
 - Learning more about application solution architecture, like Clean Architecture.
-- Working on some very nice logging and development helpers for M-Files related topics. The first: [Serilog.Sinks.MFilesSysUtilsEventLog](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesSysUtilsEventLog).
+- Working on some very nice logging and development helpers for M-Files related topics. 
 - Researching topics to improving productivity, project quality/process and technical skills.
+
+### RECENT
+
+- A Serilog sink wrapper to write to the Windows EventLog using the SysUtils.ReportXToEventLog() in an M-Files Vault Application: [Serilog.Sinks.MFilesSysUtilsEventLog](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesSysUtilsEventLog).
 
 <br/>
 <br/>
