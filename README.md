@@ -21,6 +21,7 @@ I am a solution architect, software developer and avid PowerShell scripter, work
 ### RECENT
 
 - A Serilog sink wrapper to write to the Windows EventLog using the SysUtils.ReportXToEventLog() in an M-Files Vault Application: [Serilog.Sinks.MFilesSysUtilsEventLog](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesSysUtilsEventLog).
+- A Serilog sink wrapper to emit formatted log events to a delegate: [Serilog.Sinks.DelegatingText](https://github.com/victorvogelpoel/Serilog.Sinks.DelegatingText).
 
 <br/>
 <br/>
