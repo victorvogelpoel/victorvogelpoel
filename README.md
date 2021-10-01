@@ -21,10 +21,10 @@ I am a solution architect, software developer and avid PowerShell scripter, work
 ### RECENT
 
 - Became a member of the Serilog contrib team.
+- **[work in progress]** Created a Serilog sink that logs events to an M-Files vault: [Serilog.Sinks.MFilesObject](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesObject).
 - Created a Serilog sink wrapper to write to the Windows EventLog using the SysUtils.ReportXToEventLog() in an M-Files Vault Application: [Serilog.Sinks.MFilesSysUtilsEventLog](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesSysUtilsEventLog).
 - Created a Serilog sink wrapper to emit formatted log events to a delegate: [Serilog.Sinks.DelegatingText](https://github.com/victorvogelpoel/Serilog.Sinks.DelegatingText).
-- Work in progress: creating a Serilog sink to log to an M-Files vault.
-- Started a repository to show practical M-Files COM/REST API use in console and vault application programs: [https://github.com/victorvogelpoel/practical-m-files](https://github.com/victorvogelpoel/practical-m-files).
+- Started a repository to show practical M-Files COM/REST API application platform use in console and vault application programs: [https://github.com/victorvogelpoel/practical-m-files](https://github.com/victorvogelpoel/practical-m-files).
 
 <br/>
 <br/>
