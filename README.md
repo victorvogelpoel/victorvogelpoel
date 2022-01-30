@@ -6,16 +6,14 @@ I am a solution architect, software developer and avid PowerShell scripter, work
 
 ### BIO
 
-- I'm currently working as a technical consultant at [The One](https://theone.nl) and [GeONE](https://geone.nl), where I build integration solutions for clients with .NET, PowerShell and M-Files Intelligent Document Management.
+- I used to be a technical consultant, building integration solutions for clients with .NET, PowerShell and M-Files Intelligent Document Management.
 - I use daily: `PowerShell`, `C#`, `.NET (Core)`, Visual Studio, OneNote, Araxis Merge.
-- [LinkedIn](https://www.linkedin.com/in/victorvogelpoel/)
+- [See my LinkedIn profile](https://www.linkedin.com/in/victorvogelpoel/)
 
 ### NOW
 
-- Administering and maintaining a letter generator for a semi-public company.
-- Learning about integration solutions with M-Files (eg REST API, vault application).
 - Learning more about application solution architecture, like Clean Architecture.
-- Working on some very nice logging and development helpers for M-Files related topics. 
+- Working on some very nice logging and development helpers for M-Files related topics.
 - Researching topics to improving productivity, project quality/process and technical skills.
 
 ### RECENT
