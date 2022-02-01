@@ -6,7 +6,7 @@ I am a solution architect, C# .NET software developer and avid PowerShell script
 
 ### BIO
 - I work for Team Rockstars IT as a .NET software engineer.
-- Priorly, I was a technical consultant, building integration solutions for customers with .NET, PowerShell and M-Files Intelligent Document Management, doing very large document migrations and managed a letter generator for semi-public company Het CAK for several public schemes.
+- Priorly, I was a technical consultant, building integration solutions for customers with .NET, PowerShell and M-Files Intelligent Document Management, doing very large document migrations and managing a letter generator for semi-public company Het CAK for several public schemes.
 - I use daily: `PowerShell`, `C#`, `.NET (Core)`, Visual Studio (Code), OneNote, Araxis Merge.
 - [See my LinkedIn profile](https://www.linkedin.com/in/victorvogelpoel/)
 
