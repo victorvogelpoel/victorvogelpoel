@@ -1,13 +1,13 @@
 ## Hi there, I'm Victor Vogelpoel
 
-I am a solution architect, software developer and avid PowerShell scripter, working from home in the middle of The Netherlands.
+I am a solution architect, C# .NET software developer and avid PowerShell scripter, current working from home in the middle of The Netherlands.
 
 
 
 ### BIO
-
-- I used to be a technical consultant, building integration solutions for clients with .NET, PowerShell and M-Files Intelligent Document Management.
-- I use daily: `PowerShell`, `C#`, `.NET (Core)`, Visual Studio, OneNote, Araxis Merge.
+- I work for Team Rockstars IT as a .NET software engineer.
+- Priorly, I was a technical consultant, building integration solutions for customers with .NET, PowerShell and M-Files Intelligent Document Management, doing very large document migrations and managed a letter generator for semi-public company Het CAK for several public schemes.
+- I use daily: `PowerShell`, `C#`, `.NET (Core)`, Visual Studio (Code), OneNote, Araxis Merge.
 - [See my LinkedIn profile](https://www.linkedin.com/in/victorvogelpoel/)
 
 ### NOW
