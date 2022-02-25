@@ -1,31 +1,29 @@
-## Hi there, I'm Victor Vogelpoel
+# Hi there, I'm Victor Vogelpoel
 
-I am a solution architect, C# .NET software developer and avid PowerShell scripter, current working from home in the middle of The Netherlands.
-
-
+I am a solution architect, C# .NET software developer and avid PowerShell scripter, currently working from home in the middle of The Netherlands.
 
 ### BIO
-- I work for Team Rockstars IT as a .NET software engineer.
-- Priorly, I was a technical consultant, building integration solutions for customers with .NET, PowerShell and M-Files Intelligent Document Management, doing very large document migrations and managing a letter generator for several health insurance citizen regulations at semi-public company Het CAK.
+
+- I work for Team Rockstars IT as a .NET software engineer and an aspiring Azure DevOps engineer.
+- Priorly, I was a technical consultant, building integration solutions for customers with .NET, PowerShell and M-Files Intelligent Document Management, doing very large document migrations and managing a letter generator for several health insurance citizen regulations at semi-government company Het CAK.
 - I use daily: `PowerShell`, `C#`, `.NET (Core)`, Visual Studio (Code), OneNote, Araxis Merge.
 - [See my LinkedIn profile](https://www.linkedin.com/in/victorvogelpoel/) for my experiences.
 
 ### NOW
 
-- Learning more about application solution architecture, like Clean Architecture.
-- Researching topics to improving products, techniques, processes and authors, see [Awesome blogs and authors](https://victorvogelpoel.github.io/awesome-blogs-and-authors/)
+- Learning more about application solution architecture, like Clean Architecture, SOLID and other design patterns.
+- Researching topics to improving products, techniques, processes and traits, see [Awesome blogs and authors](https://victorvogelpoel.github.io/awesome-blogs-and-authors/)
 
 ### RECENT
 
-- Became a member of the Serilog contrib team.
+- I became a member of the Serilog contrib team.
 - Created a Serilog sink that logs events to an M-Files vault: [Serilog.Sinks.MFilesObject](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesObject).
-- Created a Serilog sink wrapper to write to the Windows EventLog using the SysUtils.ReportXToEventLog() in an M-Files Vault Application: [Serilog.Sinks.MFilesSysUtilsEventLog](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesSysUtilsEventLog).
+- Created a Serilog sink wrapper that uses M-Files VAF SysUtils.ReportXToEventLog() to write to the Windows EventLog in a Vault Application: [Serilog.Sinks.MFilesSysUtilsEventLog](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesSysUtilsEventLog).
 - Created a Serilog sink wrapper to emit formatted log events to a delegate: [Serilog.Sinks.DelegatingText](https://github.com/victorvogelpoel/Serilog.Sinks.DelegatingText).
 - Started a repository to show practical M-Files COM/REST API application platform use in console and vault application programs: [https://github.com/victorvogelpoel/practical-m-files](https://github.com/victorvogelpoel/practical-m-files).
 - Working on some very nice logging and development helpers for M-Files related topics.
 
-<br/>
-<br/>
+<br/><br/>
 
 <img alt="OS" src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=Windows"/> <img alt="Visual Studio" src="https://img.shields.io/badge/Tool-Visual%20Studio-blue?style=for-the-badge&icon=visualstudio"/> <img alt="Visual Studio" src="https://img.shields.io/badge/Framework-.NET%20(Core)-blue?style=for-the-badge&icon=visualstudio"/> <img alt="Visual Studio" src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&icon=visualstudio"/> <img alt="PowerShell" src="https://img.shields.io/badge/Tool-PowerShell-blue?style=for-the-badge&logo=PowerShell&logocolor=white"/> <img alt="Office 365" src="https://img.shields.io/badge/Tool-Github-blue?style=for-the-badge"/> <img alt="Office 365" src="https://img.shields.io/badge/Tool-Office%20365-blue?style=for-the-badge"/> <img alt="Azure" src="https://img.shields.io/badge/cloud-Azure-blue?style=for-the-badge"/>
 <br/>
