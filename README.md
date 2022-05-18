@@ -4,15 +4,17 @@ I am a solution architect, C# .NET software developer and avid PowerShell script
 
 ### BIO
 
+- I use daily: `PowerShell`, `C#`, `.NET (Core)`, Visual Studio (Code), OneNote, Araxis Merge.
 - I work for Team Rockstars IT as a .NET software engineer and an aspiring Azure DevOps engineer.
 - Priorly, I was a technical consultant, building integration solutions for customers with .NET, PowerShell and M-Files Intelligent Document Management, doing very large document migrations and managing a letter generator for several health insurance citizen regulations at semi-government company Het CAK.
-- I use daily: `PowerShell`, `C#`, `.NET (Core)`, Visual Studio (Code), OneNote, Araxis Merge.
 - [See my LinkedIn profile](https://www.linkedin.com/in/victorvogelpoel/) for my experiences.
 
 ### NOW
 
+- Working on a very large, very complex application in the Enforcement domain at Conclusion Confidential.
 - Learning more about application solution architecture, like Clean Architecture, SOLID and other design patterns.
 - Researching topics to improving products, techniques, processes and traits, see [Awesome blogs and authors](https://victorvogelpoel.github.io/awesome-blogs-and-authors/)
+- Trying to keep up with M-Files topics.
 
 ### RECENT
 
