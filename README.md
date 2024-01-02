@@ -11,12 +11,13 @@ I am a solution architect, C# .NET software developer and avid PowerShell script
 
 ### NOW
 
-- Working on a very large, very complex application in the Enforcement domain at Conclusion Confidential.
+- Starting at VodafoneZiggo in a Solution Designer role on the Network-as-a-Service program.
 - Learning more about application solution architecture, team topologies, team flow and leadership.
 - Researching topics to improving products, techniques, processes and traits, see [Awesome blogs and authors](https://victorvogelpoel.github.io/awesome-blogs-and-authors/)
 
 ### RECENT
 
+- Worked as a backend developer on a very large, very complex application in the Enforcement domain at Conclusion Confidential.
 - I became a member of the Serilog contrib team.
 - Created a Serilog sink that logs events to an M-Files vault: [Serilog.Sinks.MFilesObject](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesObject).
 - Created a Serilog sink wrapper that uses M-Files VAF SysUtils.ReportXToEventLog() to write to the Windows EventLog in a Vault Application: [Serilog.Sinks.MFilesSysUtilsEventLog](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesSysUtilsEventLog).
