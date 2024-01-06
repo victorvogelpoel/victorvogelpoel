@@ -8,6 +8,7 @@ I am a solution architect, C# .NET software developer and avid PowerShell script
 - I work for Team Rockstars IT as a .NET backend software engineer and an aspiring Azure DevOps engineer.
 - Priorly, I was a technical consultant, building integration solutions for customers with .NET, PowerShell and M-Files Intelligent Document Management, doing very large document migrations, and working at semi-government company Het CAK, where I managed a letter generator for several health insurance citizen regulations.
 - [See my LinkedIn profile](https://www.linkedin.com/in/victorvogelpoel/) for my experiences.
+- Interests include software engineering, architecture and technical leadership.
 
 ### NOW
 
@@ -17,7 +18,7 @@ I am a solution architect, C# .NET software developer and avid PowerShell script
 
 ### RECENT
 
-- Worked as a backend developer on a very large, very complex application in the Enforcement domain at Conclusion Confidential.
+- Worked in secondment as a .NET backend developer on a very large, very complex application in the Enforcement domain at Conclusion Confidential.
 - I became a member of the Serilog contrib team.
 - Created a Serilog sink that logs events to an M-Files vault: [Serilog.Sinks.MFilesObject](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesObject).
 - Created a Serilog sink wrapper that uses M-Files VAF SysUtils.ReportXToEventLog() to write to the Windows EventLog in a Vault Application: [Serilog.Sinks.MFilesSysUtilsEventLog](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesSysUtilsEventLog).
