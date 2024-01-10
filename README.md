@@ -6,25 +6,26 @@ I am a solution architect, C# .NET software developer and avid PowerShell script
 
 - I use daily: `C#`, `.NET (Core)`, `PowerShell`, Visual Studio (Code), OneNote, Araxis Merge.
 - I work for Team Rockstars IT as a .NET backend software engineer and an aspiring Azure DevOps engineer.
-- Priorly, I was a technical consultant, building integration solutions for customers with .NET, PowerShell and M-Files Intelligent Document Management, doing very large document migrations, and working at semi-government company Het CAK, where I managed a letter generator for several health insurance citizen regulations.
 - [See my LinkedIn profile](https://www.linkedin.com/in/victorvogelpoel/) for my experiences.
 - Interests include software engineering, architecture and technical leadership.
 
 ### NOW
 
-- Starting at VodafoneZiggo in a Solution Designer role on the Network-as-a-Service program.
+- Starting at VodafoneZiggo in a Solution Designer role on the Network-as-a-Service program (product provisioning).
 - Learning more about application solution architecture, team topologies, team flow and leadership.
 - Researching topics to improving products, techniques, processes and traits, see [Awesome blogs and authors](https://victorvogelpoel.github.io/awesome-blogs-and-authors/)
 
 ### RECENT
 
 - Worked in secondment as a .NET backend developer on a very large, very complex application in the Enforcement domain at Conclusion Confidential.
+- Worked in a technical consultant role, building integration solutions for customers with .NET, PowerShell and M-Files Intelligent Document Management, doing very large document migrations.
+- Worked at semi-government company Het CAK, where I managed a letter generator for several health insurance citizen regulations.
+- Started a repository to show practical M-Files COM/REST API application platform use in console and vault application programs: [https://github.com/victorvogelpoel/practical-m-files](https://github.com/victorvogelpoel/practical-m-files).
+- Worked on some very nice logging and development helpers for M-Files related topics.
 - I became a member of the Serilog contrib team.
 - Created a Serilog sink that logs events to an M-Files vault: [Serilog.Sinks.MFilesObject](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesObject).
 - Created a Serilog sink wrapper that uses M-Files VAF SysUtils.ReportXToEventLog() to write to the Windows EventLog in a Vault Application: [Serilog.Sinks.MFilesSysUtilsEventLog](https://github.com/victorvogelpoel/Serilog.Sinks.MFilesSysUtilsEventLog).
 - Created a Serilog sink wrapper to emit formatted log events to a delegate: [Serilog.Sinks.DelegatingText](https://github.com/victorvogelpoel/Serilog.Sinks.DelegatingText).
-- Started a repository to show practical M-Files COM/REST API application platform use in console and vault application programs: [https://github.com/victorvogelpoel/practical-m-files](https://github.com/victorvogelpoel/practical-m-files).
-- Working on some very nice logging and development helpers for M-Files related topics.
 
 <br/><br/>
 
