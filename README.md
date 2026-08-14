@@ -32,17 +32,7 @@ I am a solution architect, C# .NET software developer and avid PowerShell script
 - Started a repository to show practical M-Files COM/REST API application platform use in console and vault application programs: [https://github.com/victorvogelpoel/practical-m-files](https://github.com/victorvogelpoel/practical-m-files).
 
 <br/><br/>
-
-<img alt="OS" src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=Windows"/> 
-<img alt="OS" src="https://img.shields.io/badge/OS-MacOS-blue?style=for-the-badge"/> 
-<img alt="Visual Studio" src="https://img.shields.io/badge/Tool-Visual%20Studio-blue?style=for-the-badge&icon=visualstudio"/> 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=for-the-badge&icon=vscode"/> 
-<img alt=".NET Core" src="https://img.shields.io/badge/Framework-.NET%20(Core)-blue?style=for-the-badge&icon=visualstudio"/> 
-<img alt="C#" src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&icon=visualstudio"/> 
-<img alt="PowerShell" src="https://img.shields.io/badge/Tool-PowerShell-blue?style=for-the-badge&logo=PowerShell&logocolor=white"/> 
-<img alt="GitHub" src="https://img.shields.io/badge/Tool-GitHub-blue?style=for-the-badge"/> 
-<img alt="Office 365" src="https://img.shields.io/badge/Tool-Office%20365-blue?style=for-the-badge"/> 
-<img alt="Azure" src="https://img.shields.io/badge/cloud-Azure-blue?style=for-the-badge"/>
+<img alt="OS" src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=Windows"/> <img alt="OS" src="https://img.shields.io/badge/OS-MacOS-blue?style=for-the-badge"/> <img alt="Visual Studio" src="https://img.shields.io/badge/Tool-Visual%20Studio-blue?style=for-the-badge&icon=visualstudio"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=for-the-badge&icon=vscode"/> <img alt=".NET Core" src="https://img.shields.io/badge/Framework-.NET%20(Core)-blue?style=for-the-badge&icon=visualstudio"/> <img alt="C#" src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&icon=visualstudio"/> <img alt="PowerShell" src="https://img.shields.io/badge/Tool-PowerShell-blue?style=for-the-badge&logo=PowerShell&logocolor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/Tool-GitHub-blue?style=for-the-badge"/> <img alt="Office 365" src="https://img.shields.io/badge/Tool-Office%20365-blue?style=for-the-badge"/> <img alt="Azure" src="https://img.shields.io/badge/cloud-Azure-blue?style=for-the-badge"/>
 <br/>
 
 <!-- Skill levels: Novice | Beginner | Competent | Proficient | Expert
@@ -50,21 +40,7 @@ I am a solution architect, C# .NET software developer and avid PowerShell script
 	 Intermediate:yellow
 	 Advanced:green
 -->
-<img alt="Clean Code and Clean Architecture" src="https://img.shields.io/badge/Learning-Clean%20Code%20%26%20Clean%20Architecture-yellow?style=flat"/> 
-<img alt="Principles and patterns" src="https://img.shields.io/badge/Learning-Principles%20%26%20Patterns-yellow?style=flat"/> 
-<img alt="GIT Commit message convention" src="https://img.shields.io/badge/Learning-Git%20commit%20message%20convention-yellow?style=flat"/> 
-<img alt="Telemetry, Observability, metrics and factlogging" src="https://img.shields.io/badge/Learning-Observability-yellow?style=flat"/> 
-<img alt="Developer traits" src="https://img.shields.io/badge/Learning-Developer%20traits-yellow?style=flat"/> 
-<img alt="Privacy and GDPR" src="https://img.shields.io/badge/Learning-Privacy%20%26%20GDPR-orange?style=flat"/> 
-<img alt="Journalling and researching" src="https://img.shields.io/badge/Learning-Journalling%20%26%20researching-orange?style=flat"/> 
-<img alt="How I work" src="https://img.shields.io/badge/Learning-How%20I%20work-yellow?style=flat"/> 
-<img alt="personal brand" src="https://img.shields.io/badge/Learning-personal%20brand-orange?style=flat"/> 
-<img alt="Knowledge sharing" src="https://img.shields.io/badge/Learning-Knowledge%20sharing-yellow?style=flat"/> 
-<img alt="Be more pragmatic" src="https://img.shields.io/badge/Learning-to%20be%20more%20pragmatic-yellow?style=flat"/> 
-<img alt="to slow down in order to go fast" src="https://img.shields.io/badge/Learning-to%20slow%20down%20in%20order%20to%20go%20fast-orange?style=flat"/> 
-<img alt="to think in creating business value" src="https://img.shields.io/badge/Learning-to%20think%20in%20creating%20business%20value-yellow?style=flat"/> 
-<img alt="Progress over perfection" src="https://img.shields.io/badge/Learning-Progress%20over%20perfection-yellow?style=flat"/> 
-<img alt="Omdenken" src="https://img.shields.io/badge/Learning-Omdenken-green?style=flat"/> 
+<img alt="Clean Code and Clean Architecture" src="https://img.shields.io/badge/Learning-Clean%20Code%20%26%20Clean%20Architecture-yellow?style=flat"/> <img alt="Principles and patterns" src="https://img.shields.io/badge/Learning-Principles%20%26%20Patterns-yellow?style=flat"/> <img alt="GIT Commit message convention" src="https://img.shields.io/badge/Learning-Git%20commit%20message%20convention-yellow?style=flat"/> <img alt="Telemetry, Observability, metrics and factlogging" src="https://img.shields.io/badge/Learning-Observability-yellow?style=flat"/> <img alt="Developer traits" src="https://img.shields.io/badge/Learning-Developer%20traits-yellow?style=flat"/> <img alt="Privacy and GDPR" src="https://img.shields.io/badge/Learning-Privacy%20%26%20GDPR-orange?style=flat"/> <img alt="Journalling and researching" src="https://img.shields.io/badge/Learning-Journalling%20%26%20researching-orange?style=flat"/> <img alt="How I work" src="https://img.shields.io/badge/Learning-How%20I%20work-yellow?style=flat"/> <img alt="personal brand" src="https://img.shields.io/badge/Learning-personal%20brand-orange?style=flat"/> <img alt="Knowledge sharing" src="https://img.shields.io/badge/Learning-Knowledge%20sharing-yellow?style=flat"/> <img alt="Be more pragmatic" src="https://img.shields.io/badge/Learning-to%20be%20more%20pragmatic-yellow?style=flat"/> <img alt="to slow down in order to go fast" src="https://img.shields.io/badge/Learning-to%20slow%20down%20in%20order%20to%20go%20fast-orange?style=flat"/> <img alt="to think in creating business value" src="https://img.shields.io/badge/Learning-to%20think%20in%20creating%20business%20value-yellow?style=flat"/> <img alt="Progress over perfection" src="https://img.shields.io/badge/Learning-Progress%20over%20perfection-yellow?style=flat"/> <img alt="Omdenken" src="https://img.shields.io/badge/Learning-Omdenken-green?style=flat"/> 
 <br/>
 <!--ORANGE: novice;  YELLOW: intermediate;  GREEN: advanced -->
 <br/>
